@@ -3,7 +3,7 @@ PyCity School Analysis
 
 Analyzed the district-wide standardized test results. Student's math and reading scores, as well as various information on the schools they attend is included in the data set. 
 
-District Summary
+District Summary:
 
 A high level snapshot (in table form) of the district's key metrics, including:
 
@@ -19,7 +19,7 @@ Overall Passing Rate (Average of the above two)
 
 
 
-School Summary
+School Summary:
 
 An overview table that summarizes key metrics about each school, including:
 
