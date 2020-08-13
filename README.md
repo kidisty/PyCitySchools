@@ -90,4 +90,4 @@ Schools Grouped based on a reasonable approximation of school size (Small, Mediu
 
 Scores by School Type
 
-Schools grouped based on school type (Charter vs. District).
+Schools grouped based on school type (Charter vs. District)
