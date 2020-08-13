@@ -19,7 +19,7 @@ Overall Passing Rate (Average of the above two)
 
 
 
-School Summary
+School Summary:
 
 An overview table that summarizes key metrics about each school, including:
 
